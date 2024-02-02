@@ -19,6 +19,7 @@ const ptwo = {
  challenge: "Hard Woking on understanding the consept of code and world"
 }
 ```
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=preetam-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="preetam-hegde" /> </p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/preetam-hegde)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/preetam-hegde-8b53311a7//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://preetam-ptwo.github.io/Portfolio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/claris.svg' alt='claris' height='40'>](https://preetam-hegde.github.io/Portfolio/)  
