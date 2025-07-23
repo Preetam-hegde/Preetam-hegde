@@ -4,7 +4,7 @@
 
 Just Going with the Flow of time.
 
-- 🔭 I’m currently working on Oracle 
+- 🔭 I’m currently working in Oracle OCI 
 - 🌱 I’m currently learning GD Script for game development 
 - 📫 How to reach me: hegde451@gmail.com 
 
